@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cgame/precache-manifest.b761c7df91fbf84a7f69d182ef840839.js"
+  "/click-game2/precache-manifest.ffac9286df2cfced47727d3807587e34.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/cgame/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/click-game2/index.html"), {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });

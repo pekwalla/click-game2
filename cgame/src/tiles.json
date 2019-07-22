@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Audrey",
+      "image":
+        "https://res.cloudinary.com/pekwalla/image/upload/c_scale,dpr_auto,f_auto,q_auto:eco,w_320/peggy1_d0hodr.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Nadine",
+      "image":
+        "https://res.cloudinary.com/pekwalla/image/upload/c_scale,dpr_auto,f_auto,q_auto:eco,w_320/v1563062994/Smith_w1zxt1.jpg",
+        "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Blackey",
+      "image":
+        "https://res.cloudinary.com/pekwalla/image/upload/c_scale,dpr_auto,f_auto,q_auto:eco,w_320/v1563062994/Angelina_fxzivr.jpg",
+        "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Cooper",
+      "image":
+        "https://res.cloudinary.com/pekwalla/image/upload/c_scale,dpr_auto,f_auto,q_auto:eco,w_320/v1563062994/cardi_B_co20h9.jpg",
+        "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Bob",
+      "image":
+        "https://res.cloudinary.com/pekwalla/image/upload/c_scale,dpr_auto,f_auto,q_auto:eco,w_320/v1563062994/nikki_cfmn8q.jpg",
+        "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "Garland",
+      "image":
+        "https://res.cloudinary.com/pekwalla/image/upload/c_scale,dpr_auto,f_auto,q_auto:eco,w_320/v1563062994/beyonce_nrrxmi.jpg",
+        "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Mike",
+      "image":
+        "https://res.cloudinary.com/pekwalla/image/upload/c_scale,dpr_auto,f_auto,q_auto:eco,w_320/v1563062994/Ray_J_j2ukxi.jpg",
+        "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "Hawk",
+      "image":
+        "https://res.cloudinary.com/pekwalla/image/upload/c_scale,dpr_auto,f_auto,q_auto:eco,w_320/v1563062994/trump_nw4yee.jpg",
+        "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "Dr. Jacoby",
+      "image":
+        "https://res.cloudinary.com/pekwalla/image/upload/c_scale,dpr_auto,f_auto,q_auto:eco,w_320/v1563062994/legend_baif9s.jpg",
+        "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "Laura",
+      "image":
+        "https://res.cloudinary.com/pekwalla/image/upload/c_scale,dpr_auto,f_auto,q_auto:eco,w_320/v1563062994/orprah_fdnylc.jpg",
+        "clicked": false
+    } ,
+    {
+      "id": 11,
+      "name": "Laura",
+      "image":
+        "https://res.cloudinary.com/pekwalla/image/upload/c_scale,dpr_auto,f_auto,q_auto:eco,w_320/v1563064297/stalone_lr6sjr.jpg",
+        "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "Laura",
+      "image":
+        "https://res.cloudinary.com/pekwalla/image/upload/c_scale,dpr_auto,f_auto,q_auto:eco,w_320/v1563064297/jlo_pebuxv.jpg",
+        "clicked": false
+    }
+]
+  

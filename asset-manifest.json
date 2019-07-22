@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cgame/static/css/main.4839b3c9.chunk.css",
+    "main.js": "/cgame/static/js/main.1354a3d7.chunk.js",
+    "main.js.map": "/cgame/static/js/main.1354a3d7.chunk.js.map",
+    "runtime~main.js": "/cgame/static/js/runtime~main.02a299db.js",
+    "runtime~main.js.map": "/cgame/static/js/runtime~main.02a299db.js.map",
+    "static/js/2.b71c785f.chunk.js": "/cgame/static/js/2.b71c785f.chunk.js",
+    "static/js/2.b71c785f.chunk.js.map": "/cgame/static/js/2.b71c785f.chunk.js.map",
+    "index.html": "/cgame/index.html",
+    "precache-manifest.b761c7df91fbf84a7f69d182ef840839.js": "/cgame/precache-manifest.b761c7df91fbf84a7f69d182ef840839.js",
+    "service-worker.js": "/cgame/service-worker.js",
+    "static/css/main.4839b3c9.chunk.css.map": "/cgame/static/css/main.4839b3c9.chunk.css.map"
+  }
+}
